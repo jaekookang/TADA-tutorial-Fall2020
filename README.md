@@ -2,4 +2,6 @@
 
 At CUNY Graduate Center (Fall 2020)
 
-2020-10-16
+## Dates
+	- 2020-10-16: Matlab and TADA basics
+	- 2020-10-25: Simulating and changing gestures
